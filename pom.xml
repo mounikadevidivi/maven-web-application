@@ -93,11 +93,11 @@
       <snapshotRepository>
         <id>mvn-pipeline-proj</id>
         <name>mvn-pl-proj</name>
-	<urlhttp://172.31.210.7:8081/repository/mvn-pipeline-proj/</url>
+	<url>http://172.31.210.7:8081/repository/mvn-pipeline-proj/</url>
       </snapshotRepository>
       <repository>
         <id>mvn-pipeline-proj</id>
-        <name>>mvn-pl-proj</name>
+        <name>mvn-pl-proj</name>
 	<url>http://172.31.210.7:8081/repository/mvn-pipeline-proj/</url>
       </repository>	
    </distributionManagement>
