@@ -91,14 +91,14 @@
 	
   <distributionManagement>
       <snapshotRepository>
-        <id>crm-project</id>
-        <name>devops markonda</name>
-	<url>http://localhost:8081/repository/devops/</url>
+        <id>mvn-pipeline-proj</id>
+        <name>mvn-pl-proj</name>
+	<urlhttp://172.31.210.7:8081/repository/mvn-pipeline-proj/</url>
       </snapshotRepository>
       <repository>
-        <id>crm-project</id>
-        <name>devops markonda</name>
-	<url>http://3.88.106.179:8081/devopsmarkonda/repository/crm-project/</url>
+        <id>mvn-pipeline-proj</id>
+        <name>>mvn-pl-proj</name>
+	<url>http://172.31.210.7:8081/repository/mvn-pipeline-proj/</url>
       </repository>	
    </distributionManagement>
 	
