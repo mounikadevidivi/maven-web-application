@@ -101,7 +101,8 @@
 	<url>http://172.31.210.7:8081/repository/mvn-pipeline-proj/</url>
       </repository>	
    </distributionManagement>
-	
+
+
 	<build>
 		<finalName>maven-web-application</finalName>
 		
